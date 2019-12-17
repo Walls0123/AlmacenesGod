@@ -11,3 +11,4 @@ $composer install
 $php artisan key:generate
 $php artisan serve
 no se sean huevones
+gaaaaaaaaaaaaaaaaaaaaaaaaaa
